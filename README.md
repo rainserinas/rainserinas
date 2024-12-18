@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and a Car Enthusiast
 ----------------------------------
 
-A Software Engineer with 5+ years of experience in creating and maintaining responsive and user-friendly websites, utilizing a wide range of programming languages and web development tools. I'm also a Results-driven Web Developer with a proven track record of delivering innovative and high-quality web solutions, skilled in Javascript, PHP, Laravel and React.js and other programming languages. Committed to staying current with industry trends and best practices to create engaging and visually appealing websites that meet the needs of both the business and end user.
+A Software Engineer with 9+ years of experience in creating and maintaining responsive and user-friendly websites, utilizing a wide range of programming languages and web development tools. I'm also a Results-driven Web Developer with a proven track record of delivering innovative and high-quality web solutions, skilled in Javascript, PHP, Laravel and React.js and other programming languages. Committed to staying current with industry trends and best practices to create engaging and visually appealing websites that meet the needs of both the business and end user.
 
 * 🌍  I'm based in Manila PH
 * 🖥️  See my portfolio at [My Github Page](http://rainserinas.github.io/)
